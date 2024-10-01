@@ -9,7 +9,7 @@ const app = express();
 const connection = mysql.createConnection({
     host: 'localhost',
     user: 'root',  // Replace with your database username
-    password: 'HERLEEd2$', // Replace with your database password
+    password: 'PASSWWORD', // Replace with your database password
     database: 'hospital_db'  // Replace with your database name
 });
 
